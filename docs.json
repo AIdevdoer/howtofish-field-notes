@@ -1,0 +1,7 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "How to Fish field notes",
+  "description": "Using the independent player's browser checklist without confusing it with a Steam save.",
+  "sidebar": [{"group": "Tool documentation", "pages": [{"title": "Your Browser Has the Clipboard", "href": "/"}]}],
+  "seo": {"noindex": false}
+}
